@@ -4,21 +4,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="elu.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          My Portifolio<span className="heart">♥️</span> React Appilication
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Jan 6, 2023<code>src/App.jsx</code> Started.
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://shifara-w3.w3spaces.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+           Contact Me!
           </a>
         </p>
       </header>
