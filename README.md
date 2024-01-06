@@ -8,11 +8,7 @@ This project was bootstrapped for you with [Vite](https://vitejs.dev/).
 <img src="user.png" class="content-img" alt="My Photo" />
 
 ### Student Registration System using Php Bootstrap ccs framework
-
-### Research Management system
-
-### E-learning portal
-
+clear
 
 ### Thanks
 
